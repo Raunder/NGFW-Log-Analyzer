@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/NGFWLogAnalyzer.iml" filepath="$PROJECT_DIR$/.idea/NGFWLogAnalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ngfwloganalyzer.iml" filepath="$PROJECT_DIR$/.idea/ngfwloganalyzer.iml" />
     </modules>
   </component>
 </project>
