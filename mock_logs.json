@@ -1,0 +1,6 @@
+[
+  {"timestamp": "2026-10-08T10:00:00", "src_ip": "192.168.1.10", "dst_ip": "10.0.0.5", "port": 443, "protocol": "TCP", "action": "ALLOW"},
+  {"timestamp": "2026-10-08T10:01:00", "src_ip": "203.0.113.5", "dst_ip": "10.0.0.5", "port": 22, "protocol": "TCP", "action": "DROP"},
+  {"timestamp": "2026-10-08T10:02:00", "src_ip": "203.0.113.5", "dst_ip": "10.0.0.5", "port": 22, "protocol": "TCP", "action": "DROP"},
+  {"timestamp": "2026-10-08T10:03:00", "src_ip": "203.0.113.5", "dst_ip": "10.0.0.5", "port": 22, "protocol": "TCP", "action": "DROP"}
+]
